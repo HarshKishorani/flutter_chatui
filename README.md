@@ -3,3 +3,6 @@ Design source : https://dribbble.com/shots/6428387-Messenger-Mobile-Concept?utm_
 
 ![messenger_mobile_concept](https://user-images.githubusercontent.com/59418176/114264656-c1b24100-9a09-11eb-830f-593cbd052f64.png)
 
+
+Check the release tab for the apk
+
